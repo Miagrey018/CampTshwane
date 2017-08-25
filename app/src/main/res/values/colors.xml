@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66bb6a</color>
+    <color name="colorPrimaryDark">#1b5e20</color>
+    <color name="colorAccent">#000</color>
+    <color name="accommodation">#fd8e09</color>
+    <color name="transport">#379237</color>
+    <color name="events">#8800a0</color>
+    <color name="map">#16afca</color>
+    <color name="tan_background">#fff7da</color>
+</resources>
